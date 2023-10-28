@@ -14,7 +14,7 @@ import (
 	"github.com/bwmarrin/discordgo"
 )
 
-// MTE2NzkzMDM4MzA5MDg0MzY0OA.GSbHju.LmfNQlJOPop9ycs2RkXKw138iPxrFv1NSe4Pe0
+// old MTE2NzkzMDM4MzA5MDg0MzY0OA.GSbHju.LmfNQlJOPop9ycs2RkXKw138iPxrFv1NSe4Pe0
 
 var (
 	Token string
